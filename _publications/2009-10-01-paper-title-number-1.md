@@ -29,6 +29,8 @@ out to be less than previously estimated. By decreasing the disk mass by a facto
 mass of $10 M_\oplus$ and $20 M_\oplus$ for the inner and outer planets, respectively. Although the particle gaps are prominent, the expected gaseous
 gaps are barely visible.
 
+![Top panel: final mm-dust surface density distribution for an inner low mass core and an outer intermediate mass core. Bottom panel: relative surface density distribution.](images/PicognaKley2015.png)
+
 [Download paper here](http://GiovanniPicogna.github.io/files/paper1.pdf)
 
 Recommended citation: Picogna & Kley (2015) "How do giant planetary cores shape the dust disk? HL Tauri system" <i>Astronomy & Astrophysics</i> 584, A110 (2015).
