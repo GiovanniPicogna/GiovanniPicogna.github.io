@@ -2,7 +2,7 @@
 title: "Influence of the circumbinary disk gravity on planetesimal accumulation in the Kepler-16 system"
 collection: publications
 permalink: /publication/2013-05-01-circumbinary-planetesimals
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Planetesimal accumulation in circumbinary disks appears to be prevented close to the stellar pair by the gravitational perturbations of the circumbinary disk. The observed planets possibly formed in the outer regions of the disk and then migrated inside by tidal interaction with the disk.'
 date: 2013-05-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2013/05/aa20893-12/aa20893-12.html'
