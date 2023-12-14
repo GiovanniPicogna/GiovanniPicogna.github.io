@@ -11,8 +11,9 @@ redirect_from:
 About me
 ========
 
-Welcome to my homepage.
-Since April 2016 I am a post-doc at the Ludwig-Maximilians-Universität (Munich) in the Star and Planet Formation group led by Barbara Ercolano.
+Welcome to my homepage!
+
+Since April 2016 I am a post-doc at the [University Observatory](https://www.usm.uni-muenchen.de/) of the [Ludwig-Maximilians-Universität](https://www.lmu.de) (Munich) in the Star and Planet Formation group led by [Barbara Ercolano](https://ercolano4.wixsite.com/homepage).
 
 My current research focuses on circumstellar disk evolution and dispersal due to X-ray photo-evaporation, and dust evolution in protoplanetary discs.
 
