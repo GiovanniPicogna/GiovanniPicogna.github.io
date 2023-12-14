@@ -58,12 +58,12 @@ Coding Skills
   * Fortran
   * bash scripting
 * Numerical codes
-  * PLUTO
-  * MOCASSIN
-  * FARGO/FARGO3D
-  * PHANTOM
-  * VINE
-  * RADMC3D
+  * [PLUTO](http://plutocode.ph.unito.it/)
+  * [MOCASSIN](https://mocassin.nebulousresearch.org/)
+  * [FARGO/FARGO3D](https://fargo3d.bitbucket.io/)
+  * [PHANTOM](https://phantomsph.github.io/)
+  * [VINE](https://www.usm.uni-muenchen.de/people/mwetz/Overview.html)
+  * [RADMC3D](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
 * Libraries
   * MPI/OpenMP
   * GSL, FFTW, HDF5
