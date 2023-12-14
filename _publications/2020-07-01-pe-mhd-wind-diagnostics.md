@@ -2,7 +2,7 @@
 title: "The interpretation of protoplanetary disc wind diagnostic lines from X-ray photoevaporation and analytical MHD models"
 collection: publications
 permalink: /publication/2020-07-01-pe-mhd-wind-diagnostics
-excerpt: 'Planetesimal accumulation in circumbinary disks appears to be prevented close to the stellar pair by the gravitational perturbations of the circumbinary disk. The observed planets possibly formed in the outer regions of the disk and then migrated inside by tidal interaction with the disk.'
+excerpt: 'The combination of MHD and photoevaporative winds could reproduce the main features of the observed line profiles. Our results suggest that the Gaussian decomposition does not allow for a clear distinction of flux from different wind regions and that the line broadening is often dominated by the velocity gradient in the outflow rather than by Keplerian rotation. We show that observed correlations between BLVC and NLVC do not necessarily imply a common origin in an extended MHD wind.'
 date: 2020-07-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article/496/1/223/5850787'
