@@ -2,7 +2,7 @@
 title: "The dispersal of protoplanetary discs – I. A new generation of X-ray photoevaporation models"
 collection: publications
 permalink: /publication/2019-07-01-X-ray-photoevaporation-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-07-01
 venue: 'MNRAS'
 paperurl: 'http://giovannipicogna.github.io/files/X-ray-photoevaporation-1.pdf'
