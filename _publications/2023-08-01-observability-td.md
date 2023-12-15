@@ -2,7 +2,7 @@
 title: "Observability of photoevaporation signatures in the dust continuum emission of transition discs"
 collection: publications
 permalink: /publication/2023-08-01-observability-td
-excerpt: '.'
+excerpt: 'We study a sample of transition discs obtained from radiation-hydrodynamic simulations of internally photoevaporated discs, and focus on the dust dynamics relevant for current Atacama Large Millimetre Array observations. We then compared our results with gaps opened by a super-Earth/giant planets, finding that the photoevaporated cavity steepness depends mildly on gap size. However, the spectral index is higher at the cavity edge with respect to the planetary case. The combination of cavity steepness and spectral index might reveal the true nature of transition discs.'
 date: 2023-08-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article-abstract/523/3/3318/7170048'
