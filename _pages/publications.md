@@ -25,6 +25,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+### Planet formation in binary stars
+
+{% for post in site.publications reversed %}
+  {% if post.PublicationStatus == 'Published' and post.tags contains 'binary stars' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 ## Submitted works
 
 {% for post in site.publications reversed %}
@@ -33,7 +41,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## In preparation
+## Works in preparation
 
 {% for post in site.publications reversed %}
   {% if post.PublicationStatus == 'In preparation' %}
