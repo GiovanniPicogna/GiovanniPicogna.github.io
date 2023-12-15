@@ -1,9 +1,9 @@
 ---
 title: "The dispersal of protoplanetary discs - III. Influence of stellar mass on disc photoevaporation"
 collection: publications
-permalink: /publication/2021-12-01-pe-stellar-mass
+permalink: /publication/2021-12-02-pe-stellar-mass
 excerpt: 'We study the influence of stellar mass on circumstellar disc mass-loss rates due to internal X-ray irradiation. We find a linear relationship between stellar mass and mass-loss rates, and provide analytical relations. Out models correctly predict the observed trend of inner-disc lifetime as a function of stellar mass.'
-date: 2021-12-01
+date: 2021-12-02
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article-abstract/508/3/3611/6385760'
 citation: 'Picogna et al. (2021). &quot;The dispersal of protoplanetary discs - III. Influence of stellar mass on disc photoevaporation.&quot; <i>Monthly Notices of the Royal Astronomical Society</i>. 508, 3.'

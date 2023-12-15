@@ -10,6 +10,7 @@ author_profile: true
 ## Published works
 
 ### Disk evolution and dispersal
+---
 
 {% for post in site.publications reversed %}
   {% if post.PublicationStatus == 'Published' and post.tags contains 'photoevaporation' %}
@@ -18,6 +19,7 @@ author_profile: true
 {% endfor %}
 
 ### Dust evolution
+---
 
 {% for post in site.publications reversed %}
   {% if post.PublicationStatus == 'Published' and post.tags contains 'dust evolution' %}
@@ -26,6 +28,7 @@ author_profile: true
 {% endfor %}
 
 ### Planet formation in binary stars
+---
 
 {% for post in site.publications reversed %}
   {% if post.PublicationStatus == 'Published' and post.tags contains 'binary stars' %}

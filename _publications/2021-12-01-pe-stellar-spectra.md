@@ -1,9 +1,9 @@
 ---
 title: "The dispersal of protoplanetary discs - II: photoevaporation models with observationally derived irradiating spectra"
 collection: publications
-permalink: /publication/2021-12-02-stellar-spectra
+permalink: /publication/2021-12-01-stellar-spectra
 excerpt: 'We presented model spectra based on spectral parameters derived from the observations of young stars in the Orion nebula cluster. The spectra are then used to calculate new photoevaporation prescriptions that can be used in disc and planet population synthesis models. Our models clearly show that disc wind mass loss rates are controlled by the stellar luminosity in the soft (100eV to 1keV) X-ray band.'
-date: 2021-12-02
+date: 2021-12-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article/508/2/1675/6373466'
 citation: 'Ercolano, Picogna et al. (2021). &quot;The dispersal of protoplanetary discs - II: photoevaporation models with observationally derived irradiating spectra.&quot; <i>Monthly Notices of the Royal Astronomical Society</i>. 508, 2.'
