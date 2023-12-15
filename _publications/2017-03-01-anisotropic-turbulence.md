@@ -7,6 +7,8 @@ date: 2017-03-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2017/03/aa30226-16/aa30226-16.html'
 citation: 'Stoll, Kley & Picogna (2017). &quot;Anisotropic hydrodynamic turbulence in accretion disks.&quot; <i>Astronomy & Astrophysics</i>. 599, L6.'
+PublicationStatus: 'Published'
+tags: ['turbulence', 'accretion discs', 'VSI', 'dust evolution', 'hydrodynamics']
 ---
 Recently, the vertical shear instability (VSI) has become an attractive purely hydrodynamic candidate for the anomalous angular momentum transport required for weakly ionized accretion disks. In direct three-dimensional numerical simulations of VSI turbulence in disks, a meridional circulation pattern was observed that is opposite to the usual viscous flow behavior. Here, we investigate whether this feature can possibly be explained by an anisotropy of the VSI turbulence. Using three-dimensional hydrodynamical simulations, we calculate the turbulent Reynolds stresses relevant for angular momentum transport for a representative section of a disk. We find that the vertical stress is significantly stronger than the radial stress. Using our results in viscous disk simulations with different viscosity coefficients for the radial and vertical direction, we find good agreement with the VSI turbulence for the stresses and meridional flow; this provides additional evidence for the anisotropy. The results are important with respect to the transport of small embedded particles in disks.
 

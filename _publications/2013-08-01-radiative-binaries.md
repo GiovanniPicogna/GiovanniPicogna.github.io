@@ -7,6 +7,8 @@ date: 2013-08-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2013/08/aa21860-13/aa21860-13.html'
 citation: 'Picogna & Marzari (2013). &quot;Three-dimensional modeling of radiative disks in binaries.&quot; <i>Astronomy & Astrophysics</i>. 556, A148.'
+PublicationStatus: 'Published'
+tags: ['binary stars', 'radiation-hydrodynamics', 'planet formation']
 ---
 **Context.** Circumstellar disks in binaries are perturbed by the companion gravity causing significant alterations of the disk morphology. Spiral waves due to the companion tidal force also develop in the vertical direction and affect the disk temperature profile. These effects may significantly influence the process of planet formation.
 

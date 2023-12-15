@@ -7,6 +7,8 @@ date: 2013-05-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2013/05/aa20893-12/aa20893-12.html'
 citation: 'Marzari et al. (2013). &quot;Influence of the circumbinary disk gravity on planetesimal accumulation in the Kepler-16 system.&quot; <i>Astronomy & Astrophysics</i>. 553, A71.'
+PublicationStatus: 'Published'
+tags: ['circumbinary disc', 'binary stars', 'planetesimals', 'planet formation']
 ---
 **Context.** Recent observations from NASA's Kepler mission detected the first planets in circumbinary orbits. The question we try to answer is where these planets formed in the circumbinary disk and how far inside they migrated to reach their present location.
 

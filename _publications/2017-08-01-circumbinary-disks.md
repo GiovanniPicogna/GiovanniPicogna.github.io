@@ -7,6 +7,8 @@ date: 2017-08-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/abs/2017/08/aa30666-17/aa30666-17.html'
 citation: 'Thun, Kley & Picogna. (2017). &quot;Circumbinary discs: Numerical and physical behaviour.&quot; <i>Astronomy & Astrophysics</i>. Volume 604, id.A102, 19 pp..'
+PublicationStatus: 'Published'
+tags: ['circumbinary disc', 'binary stars', 'hydro simulation']
 ---
 **Aims.** Discs around a central binary system play an important role in star and planet formation and in the evolution of galactic discs. These circumbinary discs are strongly disturbed by the time varying potential of the binary system and display a complex dynamical evolution that is not well understood. Our goal is to investigate the impact of disc and binary parameters on the dynamical aspects of the disc.
 
