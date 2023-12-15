@@ -35,19 +35,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-## Submitted works
-
-{% for post in site.publications reversed %}
-  {% if post.PublicationStatus == 'Submitted' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Works in preparation
-
-{% for post in site.publications reversed %}
-  {% if post.PublicationStatus == 'In preparation' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
