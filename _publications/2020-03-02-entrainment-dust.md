@@ -10,6 +10,9 @@ citation: 'Franz, Picogna et al. (2020). &quot;Dust entrainment in photoevaporat
 PublicationStatus: 'Published'
 tags: ['photoevaporation', 'dust evolution', 'disc wind', 'entrainment']
 ---
+<i class="fas fa-file-pdf" aria-hidden="true"></i> <a href="http://GiovanniPicogna.github.io/files/entrained-dust.pdf" style="color : black;">Download paper </a>
+
+### Abstract
 **Context.** X-ray- and extreme ultraviolet (XEUV) driven photoevaporative winds acting on protoplanetary disks around young T Tauri stars may crucially impact disk evolution, affecting both gas and dust distributions.
 
 **Aims.** We investigate the dust entrainment in XEUV-driven photoevaporative winds and compare our results to existing magnetohydrodynamic and EUV-only models.
@@ -24,7 +27,3 @@ tags: ['photoevaporation', 'dust evolution', 'disc wind', 'entrainment']
   <img src="http://GiovanniPicogna.github.io/images/entrained-dust.png" alt="grain sizes entrained" width="600"/>
   <figcaption>Size of the largest grains entrained from a point R along the base of the wind (blue, peak at about 20 AU); the saw-tooth appearance of the curve at larger R is caused by the finite resolution of the underlying gas grid. When comparing to Hutchison et al. (2016a, their Fig. 7 for M* = 0.75 M⊙) (orange, peak at around 40 AU), we can see the size enhancement – especially at smaller R – caused by the inclusion of X-rays in our photoevaporative wind model. The blue dashed line represents our results scaled down by a factor of 3, to compensate for the differing internal grain densities of Hutchison et al. (2016a) and this work; yet, Ṁw still differsbetween the models, making a direct comparison difficult. The MHD wind model investigated by Miyake et al. (2016, their Fig. 4) (green) shows a distinctly different entrainment curve, starting off at very high a0 in the jet region but dropping towards max (a0) = 0 very quickly.Around R ≃ 140 AU, our max (a0) plummets to 0.</figcaption>
 </figure>
-
-[Download paper here](http://GiovanniPicogna.github.io/files/entrained-dust.pdf)
-
-Recommended citation: Franz, Picogna et al. (2020) "Dust entrainment in photoevaporative winds: The impact of X-rays" <i>A&A</i> 635, A53.
