@@ -1,12 +1,12 @@
 ---
-title: "Observability of photoevaporation signatures in the dust continuum emission of transition discs"
+title: "Lowest accreting protoplanetary discs consistent with X-ray photoevaporation driving their final dispersal"
 collection: publications
 permalink: /publication/2023-11-01-low-accretors
 excerpt: 'We use disc population synthesis models to interpret recent observations of the lowest accreting protoplanetary discs, comparing predictions from EUV-driven, FUV-driven, and X-ray-driven photoevaporation models. We show that the recent observational data of stars with low accretion rates (low accretors) point to X-ray photoevaporation as the preferred mechanism driving the final stages of protoplanetary disc dispersal.'
 date: 2023-11-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnrasl/article-abstract/526/1/L105/7260862'
-citation: 'Ercolano, Picogna et al. (2023). &quot;Lowest accreting protoplanetary discs consistent with X-ray photoevaporation driving their final dispersal.&quot; <i>Monthly Notices of the Royal Astronomical Society</i>. 526, 1.'
+citation: 'Ercolano, Picogna & Monsch (2023). &quot;Lowest accreting protoplanetary discs consistent with X-ray photoevaporation driving their final dispersal.&quot; <i>Monthly Notices of the Royal Astronomical Society</i>. 526, 1.'
 PublicationStatus: 'Published'
 tags: ['photoevaporation', 'low-accretors', 'X-ray', 'disc evolution']
 ---
