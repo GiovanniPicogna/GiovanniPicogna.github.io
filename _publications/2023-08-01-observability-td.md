@@ -19,6 +19,6 @@ Photoevaporative disc winds play a key role in our understanding of circumstella
 
 ![](github.svg) [GitHub repository](https://github.com/GiovanniPicogna/observability-td)
 
-[Download paper here](http://GiovanniPicogna.github.io/files/observability-td.pdf)
+![](file-pdf-solid.svg) [Download paper](http://GiovanniPicogna.github.io/files/observability-td.pdf)
 
 Recommended citation: Picogna et al. (2023) "Observability of photoevaporation signatures in the dust continuum emission of transition discs" <i>MNRAS</i> 523, 3.
