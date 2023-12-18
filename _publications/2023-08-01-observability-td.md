@@ -17,8 +17,8 @@ Photoevaporative disc winds play a key role in our understanding of circumstella
   <figcaption>Continuum emission maps for the different transition disc cavities in Band 7 (top row) and Band 3 (bottom row). The locations of the pressure maxima are highlighted with green dashed lines.</figcaption>
 </figure>
 
-![](github.svg) [GitHub repository](https://github.com/GiovanniPicogna/observability-td)
+![](images/github.svg) [GitHub repository](https://github.com/GiovanniPicogna/observability-td)
 
-![](file-pdf-solid.svg) [Download paper](http://GiovanniPicogna.github.io/files/observability-td.pdf)
+![](images/file-pdf-solid.svg) [Download paper](http://GiovanniPicogna.github.io/files/observability-td.pdf)
 
 Recommended citation: Picogna et al. (2023) "Observability of photoevaporation signatures in the dust continuum emission of transition discs" <i>MNRAS</i> 523, 3.
