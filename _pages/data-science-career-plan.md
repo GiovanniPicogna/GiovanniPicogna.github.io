@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Career"
-permalink: /blog/
+permalink: /year-archive/
 author_profile: true
 ---
 
