@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Career"
+permalink: /blog/
+author_profile: true
+---
+
 # Data Science Career Transition Plan
 ## From Astrophysics Post-Doc to Munich Industry (2026–2028)
 
