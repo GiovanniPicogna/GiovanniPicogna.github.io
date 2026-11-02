@@ -23,5 +23,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem 'hawkins'  # live reload; pulls in eventmachine, which system Ruby can't load. Use 'jekyll serve --livereload' instead.
 end

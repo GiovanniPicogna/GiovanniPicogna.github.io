@@ -11,10 +11,9 @@ redirect_from:
 About me
 ========
 
-Welcome to my homepage!
+I am a computational physicist. Since April 2016 I have been a research scientist at the [`University Observatory`](https://www.usm.uni-muenchen.de/) of the [`Ludwig-Maximilians-Universität`](https://www.lmu.de) (Munich), in the Star and Planet Formation group led by [`Barbara Ercolano`](https://ercolano4.wixsite.com/homepage).
 
-Since April 2016 I am a post-doc at the [`University Observatory`](https://www.usm.uni-muenchen.de/) of the [`Ludwig-Maximilians-Universität`](https://www.lmu.de) (Munich) in the Star and Planet Formation group led by [`Barbara Ercolano`](https://ercolano4.wixsite.com/homepage).
+My main research focus is the evolution and dispersal of planet-forming discs by thermal winds connecting theory with observations.
+I am actively interested also in dust evolution/dynamics linked to planet formation and migration.
 
-My current research focuses on circumstellar disk evolution and dispersal due to X-ray photo-evaporation, and dust evolution in protoplanetary discs.
-
-I am also interested in planet formation around binary star systems and on the influence of stellar flybys on the formation and evolution of planetary systems. 
+[Publications](/publications/) · [CV](/cv/) · [Download CV (PDF)](/files/CV_Picogna.pdf)
