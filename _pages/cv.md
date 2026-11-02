@@ -26,9 +26,8 @@ Work experience
 
 * April 2016 - current: research scientist (post-doc)
   * Ludwig Maximilian University of Munich
-  * I lead the radiation-hydrodynamics modelling of the group: a coupled C/Fortran/Python chain linking MOCASSIN (photoionisation and dust radiative transfer) and PRIZMO (thermochemistry) to the PLUTO MHD solver, from the governing equations to validation and public release. Its model grids are used as input physics by external groups.
-  * Co-developed autoencoder surrogates that reduce a chemical reaction network 10x and halve simulation time.
-  * More than 100,000 CPU-hours per year of peer-reviewed allocation on national supercomputers (SuperMUC-NG and c2pap, LRZ; ForHLR, KIT).
+  * I developed the radiation-hydrodynamic framework for X-ray photoevaporation that couples MOCASSIN (photoionisation and dust radiative transfer) and PRIZMO (thermochemistry) to the PLUTO hydrodynamics solver, and I maintain the public model grids used by disc-evolution and planet-population-synthesis studies.
+  * I study the evolution and dispersal of planet-forming discs and their observable signatures, and supervise the group's doctoral and master's projects.
   * Supervisor: Barbara Ercolano
 
 Publications
@@ -71,9 +70,5 @@ Coding Skills
   * MPI/OpenMP, SLURM
   * GSL, FFTW, HDF5
   * NumPy, SciPy, Astropy, Matplotlib, etc.
-* Machine learning
-  * PyTorch
-  * Autoencoders, physics-informed neural networks (PINNs), surrogate and reduced-order models
-* Software engineering
-  * Git/GitHub, GitHub Actions (CI/CD), Docker, Python packaging
+* Git/GitHub, PyTorch
 * LaTeX
